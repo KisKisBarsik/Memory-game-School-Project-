@@ -58,11 +58,6 @@ memory-game/
 
 ---
 
-📄 License
-This project is licensed under its owner (KisKisBarsik)
-
----
-
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 ---
