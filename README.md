@@ -24,6 +24,7 @@ A simple and fun **Memory / Matching Cards Game** built for learning, practicing
 
 ## 📁 Project Structure
 
+```
 memory-game/
 │
 ├── public/
@@ -53,6 +54,7 @@ memory-game/
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
 
 ---
 
